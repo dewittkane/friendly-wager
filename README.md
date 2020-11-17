@@ -18,6 +18,10 @@ The user also has the capability to see all of their own 'Open Bets', 'Active Be
   <img src="public/Images/my-bets.png" alt="My Bets" width="300" height="500"/>
 </div>
 
+## Scoping Documentation
+
+[Scope Document](https://docs.google.com/document/d/1qmDVfkszY-7yAiPjYXER2lU0fy-7U8VJdfEAs3Vxxiw/edit?usp=sharing)
+
 ## Prerequisites
 
 Before you get started, make sure you have the following software installed on your computer:
